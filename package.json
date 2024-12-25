@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.2"
+  },
+  "name": "devworks",
+  "description": "DevWorks readme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Aliyuprof100/devworks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aliyuprof100/devworks/issues"
+  },
+  "homepage": "https://github.com/Aliyuprof100/devworks#readme"
+}
